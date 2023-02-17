@@ -1,0 +1,9 @@
+.App-navbar {
+    min-width: 40%;
+    max-width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }

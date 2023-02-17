@@ -1,0 +1,9 @@
+.BlogHome {
+    width: 60%;
+    margin-left: 20%;
+    display: block;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
+}
